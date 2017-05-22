@@ -66,6 +66,9 @@ public class BasicCalc
     		System.out.println("res"+res);
     		break;
     		
+    		default:
+    			System.out.println("Wrong selection");
+    		
     	}
     }
     
